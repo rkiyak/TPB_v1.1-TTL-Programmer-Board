@@ -1987,7 +1987,7 @@
     (pad "S4" thru_hole oval (at 4.7 8.87 90) (size 2 0.9) (drill oval 1.7 0.6) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "SHIELD") (pintype "passive") (thermal_bridge_angle 45) (tstamp e32b4d98-4874-48db-b8ff-0018faf557b1))
     (model "${RK_3D}/TYPE-C-31-M-12.stp"
-      (offset (xyz 0.5 -6.6 0))
+      (offset (xyz 0.4999999906 -6.600000008 1.651))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
